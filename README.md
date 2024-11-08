@@ -25,12 +25,10 @@
     <img src="https://skillicons.dev/icons?i=git,java,cs,linux,bash,docker,ansible,jenkins,html,css,js">
 </p>
 
-#
-
 <p align="left">
     <picture>
-          <source srcset="https://github-readme-stats-musab520s-projects.vercel.app/api?username=musab520&show_icons=true&include_all_commits=true&theme=vue&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <source srcset="https://github-readme-stats-musab520s-projects.vercel.app/api?username=musab520&show_icons=true&include_all_commits=true&theme=vue&text_color=ffffff&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats-musab520s-projects.vercel.app/api?username=musab520&show_icons=true&include_all_commits=true&theme=gotham&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <source srcset="https://github-readme-stats-musab520s-projects.vercel.app/api?username=musab520&show_icons=true&include_all_commits=true&theme=gotham&text_color=ffffff&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" />
         <img height="180em" src="https://github-readme-stats-musab520s-projects.vercel.app/api?username=musab520&show_icons=true" />
     </picture>
 </p>
