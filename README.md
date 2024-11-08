@@ -18,12 +18,13 @@
 
 ---
 
-### 💻 Favorite
+### 💻 Favorite Languages
 
 <p align="left">
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,c#,linux,bash,docker,ansible,jenkins,html,css,js">
+  </a>
 </p>
 
 #
