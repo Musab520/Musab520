@@ -33,10 +33,4 @@
         <source srcset="https://github-readme-stats-musab520s-projects.vercel.app/api?username=musab520&show_icons=true&include_all_commits=true&theme=vue&text_color=ffffff&bg_color=00000000&icon_color=58a6ef&hide_border=true&rank_icon=github" media="(prefers-color-scheme: dark)" />
         <img height="180em" src="https://github-readme-stats-musab520s-projects.vercel.app/api?username=musab520&show_icons=true" />
     </picture>
-</p>
-
-<picture align=center>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musab520/musab520/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musab520/musab520/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/musab520/musab520/output/github-contribution-grid-snake.svg">
-</picture>
+</p>h
